@@ -1,0 +1,16 @@
+E:\Project\Cafe Management System\CafeMS\CafeMS\bin\Debug\CafeMS.exe.config
+E:\Project\Cafe Management System\CafeMS\CafeMS\bin\Debug\CafeMS.exe
+E:\Project\Cafe Management System\CafeMS\CafeMS\bin\Debug\CafeMS.pdb
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.csproj.AssemblyReference.cache
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.Form1.resources
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.GuestOrder.resources
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.Properties.Resources.resources
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.UserOrder.resources
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.UsersForm.resources
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.csproj.GenerateResource.cache
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.csproj.CoreCompileInputs.cache
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.exe
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.pdb
+E:\Project\Cafe Management System\CafeMS\CafeMS\bin\Debug\Cafedb.mdf
+E:\Project\Cafe Management System\CafeMS\CafeMS\bin\Debug\Cafedb_log.ldf
+E:\Project\Cafe Management System\CafeMS\CafeMS\obj\Debug\CafeMS.ItemForm.resources
